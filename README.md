@@ -1,3 +1,3 @@
-Short program that display the weather in a certain city using a API.
+A short program that displays the weather in a certain city using an API.
 
 Nothing special tbh.
